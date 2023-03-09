@@ -1,0 +1,26 @@
+.movieCard {
+  list-style: none;
+  font-size: 1rem;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.692);
+  border-radius: 10px;
+}
+.movieImage {
+  border-radius: 10px;
+  background-color: rgb(255, 254, 254);
+}
+.click{
+  float: right;
+  background-color: black;
+  border-color: black;
+  color: white;
+border-radius: 50px;
+  margin-right: 10px;
+  box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+@media (max-width: 560px) {
+  .movieImage {
+    width: 100%;
+    height: auto;
+  }
+}

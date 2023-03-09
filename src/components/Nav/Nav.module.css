@@ -1,0 +1,11 @@
+.contenedor{
+    color: white;
+    position: relative;
+    top: -25px;
+    z-index: 999;
+    width: 97%;
+    height: 50px;
+   
+    text-align: right;
+    
+  }

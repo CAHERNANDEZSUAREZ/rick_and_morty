@@ -1,0 +1,26 @@
+
+.inputStyle{
+  color: white;
+  margin-top: 8px;
+  font-size: 25px;
+  background-color: transparent;
+  border: 2px solid white;
+ 
+  border-radius: 10px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+ 
+
+}
+.buttonStyle{
+  color: white;
+  margin-top: 8px;
+  font-size: 25px;
+  background-color: transparent;
+  border-color: white;
+  border-radius: 10px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border: 2px solid white;
+
+}
